@@ -1,0 +1,13 @@
+{
+  "name": "MAE",
+  "version": "1.0.0",
+  "description": "Minecraft Assets Extracter",
+  "main": "index.js",
+  "author": "5026",
+  "license": "GPLv3",
+  "dependencies": {
+    "express": "^4.17.2",
+    "fs-extra": "^10.0.0",
+    "path": "^0.12.7"
+  }
+}
