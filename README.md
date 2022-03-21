@@ -21,4 +21,4 @@ Reverse extraction minecraft assets from hashed files via indexes (support Windo
 * 按下 `WIN+R` 並輸入 `%APPDATA%\.minecraft\assets\indexes`
 * 找到您要提取的 Minecraft 版本
 * 編輯檔案 `Extract.txt` 中的內容為您要提取的版本
-* 透過 `index.js` 執行 `start.bat`
+* 透過 `start.bat` 執行 `index.js`
